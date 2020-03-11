@@ -1,0 +1,18 @@
+express = framework del backend para evitar codigo repetitivo
+express-handlebars = extensiuon de express motor de plantillas handlebars
+express-session = guardar sesion dentro de express en la memoria del serviodr o de bbdd
+mysql = modulo para conectarnos a la bbdd
+express-mysql-session = ayuda a guardar sesiones en la bbdd
+morgan = modulo que muestra por cnosla las peticiones http
+bcryptjs = ayuda a cifrar las contraseñas
+passport = metodos de autenticacion
+passport-local =  complemento de passport para autenticar los usuarios con nuestra bbdd
+timeago.js = convierte fechas de la bdd en formato comun dfe fechas
+connect-flash = mostrar mensajes de error y exito cuando el ususario realice una operacion
+express-validator = es un modulo para validar los datos que el usuario nos envia de la app cliente
+
+crear carpetas :
+
+comando mkdir
+
+lib , public , routes , views
